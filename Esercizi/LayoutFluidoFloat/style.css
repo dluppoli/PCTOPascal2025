@@ -1,0 +1,29 @@
+.w50
+{
+    width: 50%;
+    float: left;
+}
+.w66
+{
+    width: 66.66666%;
+    float: left;
+}
+.w33
+{
+    width: 33.33333%;
+    float: left;
+}
+.clear
+{
+    clear: both;
+}
+
+.box
+{
+    padding: 10px;
+}
+
+.box img
+{
+    width: 100%;
+}
